@@ -1,6 +1,6 @@
 Loadscript:
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/SamaelMorningstar/MM2-Moonwalk/refs/heads/main/MM2-Moonwalk.lua'))()
+# loadstring(game:HttpGet('https://raw.githubusercontent.com/SamaelMorningstar/MM2-Moonwalk/refs/heads/main/MM2-Moonwalk.lua'))()
 
 # > MAIN Tab
 - Aimbot Target Role Selection (Sheriff/Murderer)
